@@ -9,7 +9,6 @@ ___
 
 ## 💻 Tecnologies
 
-[![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Selenium](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
@@ -20,4 +19,3 @@ ___
 
 And some more...
 
-[![mis stats](https://github-readme-stats.vercel.app/api?username=MarcelIvan-tech)](https://github.com/MarcelIvan-tech/github-readme-stats)
