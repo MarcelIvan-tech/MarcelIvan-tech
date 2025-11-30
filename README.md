@@ -20,4 +20,4 @@ ___
 
 And some more...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MarcelIvan-tech/github-readme-stats)
+[![mis stats](https://github-readme-stats.vercel.app/api?username=MarcelIvan-tech)](https://github.com/MarcelIvan-tech/github-readme-stats)
