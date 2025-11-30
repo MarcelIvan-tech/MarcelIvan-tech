@@ -1,11 +1,8 @@
 ## Hola Soy Marcel 👋
 
-<!--
 **MarcelIvan-tech/MarcelIvan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Junior QA Assurance Tester with a genuine passion for learning and making a positive impact in the world of software. I always eager to innovate and deliver effective solutions!
-
-___
 
 
 ## 💻 Tecnologies
