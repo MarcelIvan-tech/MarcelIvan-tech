@@ -2,7 +2,7 @@
 
 
  
- <img src="[https://imgur.com/a/XybOoSn]" width="800"/>]
+<img src="https://imgur.com/cRTc2WB">
  
 I'm a Junior QA Assurance Tester with a genuine passion for learning and making a positive impact in the world of software. I always eager to innovate and deliver effective solutions!
 
