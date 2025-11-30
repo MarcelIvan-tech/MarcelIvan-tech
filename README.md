@@ -1,9 +1,11 @@
 ## Hola Soy Marcel 👋
 
-**MarcelIvan-tech/MarcelIvan-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 I'm a Junior QA Assurance Tester with a genuine passion for learning and making a positive impact in the world of software. I always eager to innovate and deliver effective solutions!
 
+___
 
 ## 💻 Tecnologies
 
@@ -18,4 +20,4 @@ I'm a Junior QA Assurance Tester with a genuine passion for learning and making 
 
 And some more...
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MarcelIvan-tech/github-readme-stats)
