@@ -1,7 +1,7 @@
 ## Hola Soy Marcel 👋
 
 
- <img decoding="async" src="[https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png](https://imgur.com/a/XybOoSn)" width="800"/>
+ <img decoding="async" src="[https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png]" width="800"/>
  
 I'm a Junior QA Assurance Tester with a genuine passion for learning and making a positive impact in the world of software. I always eager to innovate and deliver effective solutions!
 
