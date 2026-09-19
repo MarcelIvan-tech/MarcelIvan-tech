@@ -38,9 +38,13 @@ Soy un **Ingeniero de Calidad de Software (QA)** enfocado en asegurar la confiab
 
 ---
 
-### 📈 Estadísticas de GitHub
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcelIvan-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelIvan-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</div>
+### 🔄 Metodología & Ciclo de Testing (STLC)
+
+Mi enfoque para garantizar calidad en cada etapa del desarrollo:
+
+
+* **Diseño:** Aplicación de clases de equivalencia, valores límite (BVA) y tablas de decisión.
+* **Automatización:** Arquitectura limpia con Page Object Model (POM) y pruebas independientes y repetibles.
+* **Calidad:** Reportes claros de incidencias con pasos reproducibles, severidad y resultados esperados vs. obtenidos.
